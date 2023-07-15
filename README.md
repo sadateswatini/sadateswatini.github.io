@@ -1,2 +1,1 @@
-# sadateswatini.github.io
-## testing git psuh
+# NGO Website Template
